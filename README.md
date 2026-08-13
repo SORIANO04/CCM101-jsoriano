@@ -83,10 +83,4 @@ Additional laboratory activities will be added as the semester progresses.
 
 ## Author
 
-**James Raniel Soriano**users
-- Navigating the Linux file system
-- Collecting system information
-- Organizing files and directories
-- Writing technical documentation in Markdown
-- Creating and maintaining a GitHub portfolio repository
-- Following professional documentation practices used by cloud engineers
+**James Raniel Soriano**
