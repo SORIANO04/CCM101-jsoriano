@@ -12,6 +12,7 @@ Continue developing a well-organized GitHub Cloud Computing Portfolio.
 # Linux Server Investigation
 # System Information
 # Linux Distribution
+```
 PRETTY_NAME="Ubuntu 24.04.4 LTS"
 NAME="Ubuntu"
 VERSION_ID="24.04"
@@ -27,6 +28,7 @@ UBUNTU_CODENAME=noble
 LOGO=ubuntu-logo
 
 # CPU Information 
+```
 Architecture:               x86_64
 CPU op-mode(s):             32-bit, 64-bit
 Address sizes:              39 bits physical, 48 bits virtual
