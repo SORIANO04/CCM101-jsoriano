@@ -17,7 +17,9 @@ Azure Virtual Network allows organizations to create private networks and secure
 # Three Advantages
 ##
 1. (Microsoft Integration – Azure works well with Microsoft products and technologies.)
-## 2. (Scalability – Resources can be scaled according to changing business requirements.)
-## 3. Enterprise Features – Azure provides services and tools designed for enterprise applications, security, and management.
+##
+2. (Scalability – Resources can be scaled according to changing business requirements.)
+##
+3. Enterprise Features – Azure provides services and tools designed for enterprise applications, security, and management.
 # Typical Enterprise Use Cases
 Azure can be used for enterprise application hosting, database management, cloud migration, Microsoft-based workloads, data analytics, backup and disaster recovery, and artificial intelligence applications.
