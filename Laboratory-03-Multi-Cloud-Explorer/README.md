@@ -91,12 +91,11 @@ VMSCAPE:                     Not affected
 ## Total Memory
 
 $ free -h
-```
                total        used        free      shared  buff/cache   available
 Mem:           1.9Gi       434Mi       840Mi       1.1Mi       796Mi       1.4Gi
 Swap:          1.0Gi         0B        1.0Gi
 
----
+
 ## Available Disk Space
 
 $ df -h
