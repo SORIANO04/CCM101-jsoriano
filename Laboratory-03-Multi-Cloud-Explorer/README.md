@@ -94,7 +94,7 @@ Swap:          1.0Gi         0B        1.0Gi
 
 # Available Disk Space
 $ df -h
-
+```
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           191M  1012K  190M   1% /run
 /dev/vda1        19G   5.4G   13G  30% /
@@ -105,12 +105,10 @@ tmpfs           5.0M     0B  5.0M   0% /run/lock
 tmpfs           191M   8.0K  191M   1% /run/user/1001
 
 # Possible Cloud Hosting Services
-Cloud Provider
-AWS
-Microsoft Azure
-Google Cloud Platform
+| Cloud Provider | Service |
+| --- | --- |
+| AWS | Amazon EC2 |
+| Microsoft Azure | Azure Virtual Machines |
+|Google Cloud Platform | Compute Engine |
 
-Service
-Amazon EC2
-Azure Virtual Machines
-Compute Engine
+
