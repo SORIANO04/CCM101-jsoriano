@@ -1,9 +1,9 @@
 # GCP Research
 ## Brief Overview 
 Google Cloud Platform (GCP) is a cloud computing platform that provides services for computing, storage, databases, networking, artificial intelligence, machine learning, and application development.
-# Global Infrastructure 
+## Global Infrastructure 
 Google Cloud provides infrastructure across multiple geographic regions and zones. This global infrastructure allows organizations to deploy applications and services closer to their users and improve availability and performance.
-# Cloud Management Console
+## Cloud Management Console
 Google Cloud Console is a web-based interface used to create, configure, monitor, and manage Google Cloud resources and services.
 # Four Core Services
 ## 1. Compute Engine
@@ -21,5 +21,5 @@ Google Cloud VPC provides networking capabilities that allow organizations to se
 2. Global Infrastructure – Google Cloud provides a global network and infrastructure for deploying applications.
 ## 
 3. Scalability – Cloud resources can be adjusted according to workload and business requirements.
-# Typical Enterprise Use Cases
+## Typical Enterprise Use Cases
 GCP can be used for web application hosting, data analytics, artificial intelligence and machine learning, database management, cloud storage, and large-scale application development.
