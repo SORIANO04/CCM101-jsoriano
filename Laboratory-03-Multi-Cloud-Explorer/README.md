@@ -99,7 +99,7 @@ Swap:          1.0Gi         0B        1.0Gi
 ## Available Disk Space
 
 $ df -h
-
+```h
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           191M  1012K  190M   1% /run
 /dev/vda1        19G   5.4G   13G  30% /
