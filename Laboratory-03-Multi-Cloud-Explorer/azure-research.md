@@ -15,7 +15,8 @@ Azure SQL Database is a managed relational database service based on Microsoft S
 ## 4. Azure Virtual Network
 Azure Virtual Network allows organizations to create private networks and securely connect Azure resources.
 # Three Advantages
-## 1. (Microsoft Integration – Azure works well with Microsoft products and technologies.)
+##
+1. (Microsoft Integration – Azure works well with Microsoft products and technologies.)
 ## 2. (Scalability – Resources can be scaled according to changing business requirements.)
 ## 3. Enterprise Features – Azure provides services and tools designed for enterprise applications, security, and management.
 # Typical Enterprise Use Cases
