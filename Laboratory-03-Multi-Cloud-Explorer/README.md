@@ -27,7 +27,7 @@ PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-poli
 UBUNTU_CODENAME=noble
 LOGO=ubuntu-logo
 ---
-
+```
 # CPU Information 
 ```
 Architecture:               x86_64
@@ -87,14 +87,15 @@ SRBDS:                       Not affected
 TSA:                         Not affected
 TSX async abort:             Not affected
 VMSCAPE:                     Not affected
-
+```
 ## Total Memory
 
 $ free -h
+```
                total        used        free      shared  buff/cache   available
 Mem:           1.9Gi       434Mi       840Mi       1.1Mi       796Mi       1.4Gi
 Swap:          1.0Gi         0B        1.0Gi
-
+```
 
 ## Available Disk Space
 
@@ -108,7 +109,7 @@ tmpfs           5.0M     0B  5.0M   0% /run/lock
 /dev/vda16      881M  117M  703M  15% /boot
 /dev/vda15      105M  6.2M   99M   6% /boot/efi
 tmpfs           191M   8.0K  191M   1% /run/user/1001
--h
+
 ```
 # Possible Cloud Hosting Services
 | Cloud Provider | Service |
