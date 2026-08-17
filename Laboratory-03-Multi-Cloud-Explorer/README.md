@@ -105,6 +105,7 @@ tmpfs           5.0M     0B  5.0M   0% /run/lock
 tmpfs           191M   8.0K  191M   1% /run/user/1001
 
 # Possible Cloud Hosting Services
+
 | Cloud Provider | Service |
 | --- | --- |
 | AWS | Amazon EC2 |
