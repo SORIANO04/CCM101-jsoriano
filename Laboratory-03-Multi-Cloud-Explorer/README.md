@@ -26,6 +26,7 @@ BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
 PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
 UBUNTU_CODENAME=noble
 LOGO=ubuntu-logo
+---
 
 # CPU Information 
 ```
@@ -95,7 +96,7 @@ $ free -h
 Mem:           1.9Gi       434Mi       840Mi       1.1Mi       796Mi       1.4Gi
 Swap:          1.0Gi         0B        1.0Gi
 
-
+---
 ## Available Disk Space
 
 $ df -h
@@ -109,7 +110,12 @@ tmpfs           5.0M     0B  5.0M   0% /run/lock
 /dev/vda15      105M  6.2M   99M   6% /boot/efi
 tmpfs           191M   8.0K  191M   1% /run/user/1001
 
+--- 
 # Possible Cloud Hosting Services
-
+| Cloud Provider | Service |
+| --- | ---- |
+| AWS | Amazon EC2 |
+| Microsoft Azure | Azure Virtual Machines |
+| Google Cloud Platform | Compute Engine |
 
 
