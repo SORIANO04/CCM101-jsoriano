@@ -15,8 +15,11 @@ Amazon Relational Database Service (RDS) provides managed relational databases, 
 ## 4. Amazon VPC
 Amazon Virtual Private Cloud (VPC) allows organizations to create an isolated virtual network for their AWS resources.
 # Three Advantages
-## 1. Scalability – AWS allows organizations to increase or decrease resources based on their requirements.
-## 2. – AWS provides cloud infrastructure across multiple geographic locations.
-## 3. Wide Range of Services – AWS offers many services for computing, storage, databases, networking, security, and other business requirements.
+## 
+1. Scalability – AWS allows organizations to increase or decrease resources based on their requirements.
+##
+2. – AWS provides cloud infrastructure across multiple geographic locations.
+## 
+3. Wide Range of Services – AWS offers many services for computing, storage, databases, networking, security, and other business requirements.
 # Typical Enterprise Use Cases
 AWS can be used by enterprises for web application hosting, data storage and backup, database management, application development, data analytics, and scalable business applications.
